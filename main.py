@@ -26,12 +26,11 @@ app = FastAPI(title="Sasidhar AI Clone API", description="Production RAG Backend
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://sasidharakurathi-portfolio.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 # UPGRADE 1: Global Variables for Routing
 global_index = None
 user_sessions = {}  # Dictionary to store individual memory buffers
