@@ -1,0 +1,210 @@
+[
+    {
+        "query": "Who are you and what do you specialize in?",
+        "expected_topics": [
+            "Akurathi Sasidhar",
+            "AI Engineer",
+            "Backend Developer",
+            "Computer Science"
+        ]
+    },
+    {
+        "query": "What is the VirtuHire-AI project and what was your role?",
+        "expected_topics": [
+            "autonomous AI interview",
+            "video interviews",
+            "Lead AI & Backend Developer",
+            "real-time feedback"
+        ]
+    },
+    {
+        "query": "What technologies did you use to build the DevCheatHub?",
+        "expected_topics": [
+            "Django",
+            "JavaScript",
+            "Cloudinary",
+            "Anime.js",
+            "command palette"
+        ]
+    },
+    {
+        "query": "Where did you do your DevOps internship and what did you learn?",
+        "expected_topics": [
+            "SwechaAP",
+            "CI/CD",
+            "Docker",
+            "Git"
+        ]
+    },
+    {
+        "query": "What did you do during your cybersecurity internship?",
+        "expected_topics": [
+            "Supraja Technologies",
+            "Penetration testing",
+            "Vulnerability assessments",
+            "Threat modeling"
+        ]
+    },
+    {
+        "query": "Tell me about your MERN stack experience.",
+        "expected_topics": [
+            "ExcelR EdTech",
+            "MongoDB",
+            "Express.js",
+            "React",
+            "Node.js"
+        ]
+    },
+    {
+        "query": "What was your role at InfoSpoke?",
+        "expected_topics": [
+            "InfoSpoke",
+            "Project Intern"
+        ]
+    },
+    {
+        "query": "Can you explain the architecture of your ATS project?",
+        "expected_topics": [
+            "Application Tracking System",
+            "Django",
+            "NLP",
+            "resume parsing",
+            "MySQL"
+        ]
+    },
+    {
+        "query": "How does your RAG Chatbot work?",
+        "expected_topics": [
+            "Retrieval-Augmented Generation",
+            "Vector DB",
+            "Gemini API",
+            "Django"
+        ]
+    },
+    {
+        "query": "Tell me about the ANPR system you built.",
+        "expected_topics": [
+            "OpenCV",
+            "Tesseract OCR",
+            "Computer Vision",
+            "vehicle identification"
+        ]
+    },
+    {
+        "query": "Do you have experience with Rust and Tauri?",
+        "expected_topics": [
+            "Rust",
+            "Tauri",
+            "desktop application"
+        ]
+    },
+    {
+        "query": "What frameworks do you use for backend development?",
+        "expected_topics": [
+            "FastAPI",
+            "Django",
+            "Python",
+            "Node.js"
+        ]
+    },
+    {
+        "query": "What is your experience with vector databases and LLM orchestration?",
+        "expected_topics": [
+            "Vector Databases",
+            "LLM Orchestration",
+            "ChromaDB",
+            "LlamaIndex",
+            "Langchain"
+        ]
+    },
+    {
+        "query": "What AI tools and libraries are you familiar with?",
+        "expected_topics": [
+            "Ollama",
+            "Whisper",
+            "Crawl4AI",
+            "Gemini API"
+        ]
+    },
+    {
+        "query": "Which of your projects utilize Django?",
+        "expected_topics": [
+            "Application Tracking System",
+            "RAG ChatBot",
+            "E-Commerce Website",
+            "DevCheatHub"
+        ]
+    },
+    {
+        "query": "How does your cybersecurity background influence your development?",
+        "expected_topics": [
+            "Security Policy Management System",
+            "RBAC",
+            "Audit Logs",
+            "security frameworks"
+        ]
+    },
+    {
+        "query": "Have you participated in any hackathons or competitions?",
+        "expected_topics": [
+            "Cyberace hackathon",
+            "Techfest 2024",
+            "IIT Bombay",
+            "Eyantra Competition"
+        ]
+    },
+    {
+        "query": "Do you have any cloud certifications?",
+        "expected_topics": [
+            "Amazon Web Services",
+            "AWS Cloud",
+            "Builder Labs"
+        ]
+    },
+    {
+        "query": "Are you certified in Python?",
+        "expected_topics": [
+            "Code Tantra",
+            "Python Programming",
+            "data structures"
+        ]
+    },
+    {
+        "query": "What is RoboSwift?",
+        "expected_topics": [
+            "RoboSwift"
+        ]
+    },
+    {
+        "query": "Tell me about Axon-File-Manager.",
+        "expected_topics": [
+            "Axon-File-Manager"
+        ]
+    },
+    {
+        "query": "What is the VenvDrop project?",
+        "expected_topics": [
+            "VenvDrop"
+        ]
+    },
+    {
+        "query": "Can you tell me about Repo-Scribe?",
+        "expected_topics": [
+            "Repo-Scribe"
+        ]
+    },
+    {
+        "query": "Where are you currently located?",
+        "expected_topics": [
+            "Hyderabad"
+        ]
+    },
+    {
+        "query": "How can a recruiter get in touch with you?",
+        "expected_topics": [
+            "22kt1a0595@gmail.com",
+            "LinkedIn",
+            "GitHub"
+        ]
+    }
+]

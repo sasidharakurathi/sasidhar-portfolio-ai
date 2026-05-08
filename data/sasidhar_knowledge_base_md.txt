@@ -1044,8 +1044,24 @@
 
 ## Experience
 
+### Experience: InfoSpoke Integrated Solutions LLP (Full-time Associate Software Engineer)
+**Duration**: 01 May 2026 - Present
+**Role**: Associate Software Engineer (Full-time)
+
+**Work**:
+- Continued backend development and maintenance of production services
+- Ownership of API features, bug fixes, and performance improvements
+- Participation in deployments and monitoring efforts
+**Technologies Used**:
+- Python
+- FastAPI
+- Django
+- PostgreSQL
+- REST APIs
+- AI
+
 ### Experience: InfoSpoke Integrated Solutions LLP (Project Intern)
-**Duration**: During B.Tech (2022 - 2026)
+**Duration**: During B.Tech (12 Jan 2026 - 30 Apr 2026)
 
 **Work Done**:
 - Backend development for scalable software systems
@@ -1057,6 +1073,7 @@
 - Django
 - PostgreSQL
 - REST APIs
+- AI
 **Key Learnings**:
 - Scalable backend architecture patterns
 - Performance profiling and optimization techniques
@@ -1065,7 +1082,7 @@
 - Contributed to backend systems with a focus on performance and scalability
 
 ### Experience: Swecha AP (DevOps Intern)
-**Duration**: During B.Tech (2022–2026)
+**Duration**: During B.Tech (10 Jun 2024 – 22 July 2024)
 
 **Work Done**:
 - Set up and maintained CI/CD pipelines
@@ -1088,7 +1105,7 @@
 - Containerized EdTech platform services using Docker
 
 ### Experience: Supraja Technologies (Cybersecurity Intern)
-**Duration**: During B.Tech (2022–2026)
+**Duration**: During B.Tech (24 May 2024 - 24 August 2024)
 
 **Work Done**:
 - Conducted vulnerability assessments on target systems
@@ -1114,7 +1131,7 @@
 ### Project: Python Programming
 **Issuer**: Code Tantra
 
-**Year**: 
+**Year**: 2024
 
 **Skills Gained**:
 - Python
@@ -1124,7 +1141,7 @@
 ### Project: Introduction to AWS Cloud: Builder Labs Learning Plan
 **Issuer**: Amazon Web Services (AWS Training & Certification)
 
-**Year**: 
+**Year**: 2025
 
 **Skills Gained**:
 - AWS Cloud
@@ -1144,7 +1161,7 @@
 ### Project: Cyberace Hackathon (Excellence Certificate)
 **Issuer**: Supraja Technologies
 
-**Year**: 
+**Year**: 2024
 
 **Skills Gained**:
 - Cybersecurity

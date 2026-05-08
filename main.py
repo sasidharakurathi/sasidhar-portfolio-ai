@@ -31,15 +31,14 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-# UPGRADE 1: Global Variables for Routing
 global_index = None
-user_sessions = {}  # Dictionary to store individual memory buffers
+user_sessions = {}
 
 
 class ChatRequest(BaseModel):
     query: str
     is_mini_widget: bool = False
-    session_id: str  # UPGRADE 2: Require a unique ID from the frontend
+    session_id: str
 
 
 CLONE_SYSTEM_PROMPT = """
@@ -81,7 +80,6 @@ def startup_event():
     print("--- SERVER IS READY TO RECEIVE REQUESTS ---\n")
 
 
-# UPGRADE 3: The Keep-Alive Ping Endpoint
 @app.get("/api/ping")
 def ping():
     return {"status": "awake", "message": "Server is running"}
@@ -94,7 +92,6 @@ def chat_with_clone(request: ChatRequest):
 
     session_id = request.session_id
 
-    # UPGRADE 4: Check if this user already has an active memory engine. If not, create one.
     if session_id not in user_sessions:
         print(f"Creating new memory buffer for session: {session_id}")
         memory = ChatMemoryBuffer.from_defaults(token_limit=3000)
@@ -117,7 +114,6 @@ def chat_with_clone(request: ChatRequest):
         )
         final_query += mini_instructions
 
-    # Route the query to the specific user's engine
     engine = user_sessions[session_id]
     response = engine.chat(final_query)
 
