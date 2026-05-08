@@ -26,7 +26,7 @@ app = FastAPI(title="Sasidhar AI Clone API", description="Production RAG Backend
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://sasidharakurathi-portfolio.vercel.app"],
+    allow_origins=["https://sasidharakurathi-portfolio.vercel.app", "https://portfolio-644959644449.us-central1.run.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
