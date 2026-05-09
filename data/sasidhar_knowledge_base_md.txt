@@ -6,7 +6,7 @@
 
 **Headline**: Building Scalable FastAPI and Django Backends | Orchestrating LLM Agents with n8n and Google ADK | AI Automation & DevOps
 
-**Current Role**: Final-year Computer Science Student | Backend & AI Engineering Intern
+**Current Role**: Associate Software Engineer at InfoSpoke Integrated Solutions LLP
 
 ### Education
 - **Degree**: B.Tech Computer Science
@@ -19,10 +19,12 @@
 
 **Current Location**: Hyderabad, Telangana, India
 
-### Emails
-- akurathisasidhar4@gmail.com
+### Contact Information
+- **Email**: akurathisasidhar4@gmail.com
+- **LinkedIn**: [sasidhar-akurathi](https://www.linkedin.com/in/sasidhar-akurathi)
+- **GitHub**: [sasidharakurathi](https://github.com/sasidharakurathi)
+- **Portfolio**: [sasidharakurathi-portfolio.vercel.app](https://sasidharakurathi-portfolio.vercel.app/)
 
-**Social Links**: {'linkedin': 'https://www.linkedin.com/in/sasidhar-akurathi', 'github': 'https://github.com/sasidharakurathi', 'portfolio': 'https://sasidharakurathi-portfolio.vercel.app/'}
 
 ---
 
@@ -1172,9 +1174,9 @@
 
 ## Linkedin
 
-**About Section**: Final-year Computer Science student specializing in backend development, real-time systems, and AI-driven web applications. Experienced in Django, Python, and cybersecurity with a passion for building scalable solutions.
+**About Section**: Associate Software Engineer specializing in backend development, real-time systems, and AI-driven web applications. Experienced in FastAPI, Django, Python, and cybersecurity with a passion for building scalable solutions.
 
-**Experience Summary**: As a passionate final-year Computer Science student, I specialize in backend development and emerging technologies. With a strong foundation in Python, my skills have expanded to encompass full stack development, AI integration, and cybersecurity practices. Through internships at SwechaAP and Supraja Technologies, I've gained hands-on experience in DevOps, cybersecurity protocols, and educational technology. I am driven by the challenge of building scalable web applications that solve real-world problems. Empathy, collaboration, and continuous improvement are the values that guide my work. A core part of this is ensuring I am always there for my peers when they need support, because I know firsthand that a moment of guidance can save hours of frustration. For me, success isn't just about personal achievement - it's about creating a culture where we all learn from each other and succeed as a team. I am actively seeking full-time backend or full-stack developer roles starting April 2026. Feel free to connect or reach out to discuss technology and potential opportunities!
+**Experience Summary**: As a passionate Associate Software Engineer, I specialize in backend development and emerging technologies. With a strong foundation in Python, my skills have expanded to encompass full stack development, AI integration, and cybersecurity practices. Through my role at InfoSpoke and internships at SwechaAP and Supraja Technologies, I've gained hands-on experience in DevOps, cybersecurity protocols, and educational technology. I am driven by the challenge of building scalable web applications that solve real-world problems. Empathy, collaboration, and continuous improvement are the values that guide my work. A core part of this is ensuring I am always there for my peers when they need support, because I know firsthand that a moment of guidance can save hours of frustration. For me, success isn't just about personal achievement - it's about creating a culture where we all learn from each other and succeed as a team. Feel free to connect or reach out to discuss technology and potential opportunities!
 
 ### Featured Projects
 - Application Tracking System
@@ -1305,7 +1307,7 @@
 
 **Question**: Tell me about yourself
 
-**Answer**: I’m a final-year Computer Science student focused on backend engineering and AI systems. I primarily work with Python, FastAPI, and Django to build scalable, real-world applications. My work heavily involves LLM-based systems, computer vision, and automation. I’ve built projects like VirtuHire, an AI recruitment platform with biometric proctoring, and Axon File Manager, which uses hybrid search with vector databases and re-ranking. I also have hands-on experience in DevOps and cybersecurity through internships, where I worked on CI/CD pipelines, containerization, and vulnerability assessments. Overall, I focus on building practical, production-ready systems rather than just prototypes.
+**Answer**: I’m an Associate Software Engineer focused on backend engineering and AI systems. I primarily work with Python, FastAPI, and Django to build scalable, real-world applications. My work heavily involves LLM-based systems, computer vision, and automation. I’ve built projects like VirtuHire, an AI recruitment platform with biometric proctoring, and Axon File Manager, which uses hybrid search with vector databases and re-ranking. I also have hands-on experience in DevOps and cybersecurity, where I worked on CI/CD pipelines, containerization, and vulnerability assessments. Overall, I focus on building practical, production-ready systems rather than just prototypes.
 
 
 **Question**: What are your strengths?
